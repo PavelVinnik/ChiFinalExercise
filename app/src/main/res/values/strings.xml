@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ChiFinalExercise</string>
+    <string name="email_hint_text">Email</string>
+    <string name="username_hint_text">Username (only for registration)</string>
+    <string name="password_hint_text">Password</string>
+    <string name="register_button_text">Registration</string>
+    <string name="login_button_text">Login</string>
+    <string name="logout_button_text">Logout</string>
+    <string name="user_name_label">Username</string>
+    <string name="email_label">Email</string>
+    <string name="open_user_text">User</string>
 </resources>
